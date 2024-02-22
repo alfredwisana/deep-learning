@@ -1,0 +1,61 @@
+Deep Learning
+Kamis, 22 Februari 2024
+Data Processing
+
+DATA
+1. TEXT
+2. IMAGE (citra digital)
+	CV2
+3. SUARA (sequence) --> librosa
+	MISKIN INFORMASI
+	SUARA SINGLE --> SUARA UDARA (MASALAH) --> DIREKAN DI SUARA KEDAP SUARA
+	COMBING
+4. VIDEO (sequence)
+	OPENCV
+5. 3D Point (posisi)
+	- Challenge pada orientasi n direction
+	- Posisi Awal dijelaskan --> untuk object tidak standard --> normalisasi
+	- kalibrasi
+
+PROCESS
+1. Tanda Baca dihapus
+2. kata sambung (meaningless)
+3. imbuhan --> kata dasar --> stemming
+4. Kata Ganti persona
+
+Pengolahan Kata hanya untuk bahasa tertentu
+
+
+DATA yang tidak ada dikamus dihapus
+
+Dosen text kadang tidak peduli dengan bahasa
+Bu Liliana gatel sama bahasa
+
+
+Delimiter --> pembatas text 
+
+
+
+Lighting --> RGB
+1. Sinar dipantulkan
+printing --> CMBK
+1, Warna yg terserap
+
+
+
+DEEP Learning gapake ouline
+--> KomposisI Warna
+
+
+Machine Detection:
+	1. Anything that can be seen
+
+
+DATA VIDEO
+
+DPI
+CAMERA
+STATIC
+
+
+dataset 1 warna --> tidak bisa di training
