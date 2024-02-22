@@ -1,0 +1,48 @@
+Deep Learning
+Kamis, 22 Februari 2024
+Data Processing
+
+DATA
+1. TEXT
+2. IMAGE (citra digital)
+3. SUARA (sequence)
+4. VIDEO (sequence)
+5. 3D Point (posisi)
+
+
+PROCESS
+1. Tanda Baca dihapus
+2. kata sambung (meaningless)
+3. imbuhan --> kata dasar --> stemming
+4. Kata Ganti persona
+
+Pengolahan Kata hanya untuk bahasa tertentu
+
+
+DATA yang tidak ada dikamus dihapus
+
+Dosen text kadang tidak peduli dengan bahasa
+Bu Liliana gatel sama bahasa
+
+
+Delimiter --> pembatas text 
+
+
+
+Lighting --> RGB
+1. Sinar dipantulkan
+printing --> CMBK
+1, Warna yg terserap
+
+
+
+DEEP Learning gapake ouline
+--> KomposisI Warna
+
+
+
+DATA VIDEO
+
+DPI
+CAMERA
+STATIC
