@@ -5,6 +5,7 @@ Data Processing
 DATA
 1. TEXT
 2. IMAGE (citra digital)
+<<<<<<< HEAD
 	CV2
 3. SUARA (sequence) --> librosa
 	MISKIN INFORMASI
@@ -16,6 +17,12 @@ DATA
 	- Challenge pada orientasi n direction
 	- Posisi Awal dijelaskan --> untuk object tidak standard --> normalisasi
 	- kalibrasi
+=======
+3. SUARA (sequence)
+4. VIDEO (sequence)
+5. 3D Point (posisi)
+
+>>>>>>> 7b86fa77c9389455242fd59a498769aecd166de3
 
 PROCESS
 1. Tanda Baca dihapus
@@ -47,15 +54,22 @@ DEEP Learning gapake ouline
 --> KomposisI Warna
 
 
+<<<<<<< HEAD
 Machine Detection:
 	1. Anything that can be seen
 
+=======
+>>>>>>> 7b86fa77c9389455242fd59a498769aecd166de3
 
 DATA VIDEO
 
 DPI
 CAMERA
+<<<<<<< HEAD
 STATIC
 
 
 dataset 1 warna --> tidak bisa di training
+=======
+STATIC
+>>>>>>> 7b86fa77c9389455242fd59a498769aecd166de3
