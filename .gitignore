@@ -1,2 +1,7 @@
 *.Identifier
 *.pkl
+*.jpg
+*.png
+*.jpeg
+*.txt
+*.yaml
